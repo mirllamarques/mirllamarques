@@ -3,14 +3,17 @@
 
 Welcome to my study place
 
-I’m currently learning 
+- 🌱I’m currently learning 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-Now I'm Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project. In the communities I participate they call me Mirlla News because I'm the girl behind the Instagrams of PyLadies Paraíba and Ela@Computação. I'm midia manager of Elas@Computação.
+-👩🏻‍💻 Now I'm Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project. 
+-👯 In the communities I participate they call me Mirlla News because I'm the girl behind the Instagrams of PyLadies Paraíba and Ela@Computação. 
+-⚡ I'm midia manager of Elas@Computação.
 
-If you want to, follow me:
+- 📫 If you want to, follow me:
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mirllamarques)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirlla-marques)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mirlla_marques)
