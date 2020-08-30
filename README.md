@@ -1,12 +1,20 @@
 
-### Hey you!
+### Hi, I'm Mirlla!
 
 Welcome to my study place
 
-If you want to, follow me:
+I’m currently learning 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-[![Linkedin](https://icon-icons.com/icons2/652/PNG/32/linkedin_icon-icons.com_59873.png)](https://www.linkedin.com/in/mirlla-marques/)
-[![Instagram](https://icon-icons.com/icons2/2428/PNG/32/instagram_black_logo_icon_147122.png)](https://www.instagram.com/mirlla_marques/?hl=pt-br)
+Now I'm Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project. In the communities I participate they call me Mirlla News because I'm the girl behind the Instagrams of PyLadies Paraíba and Ela@Computação. I'm midia manager of Elas@Computação.
+
+If you want to, follow me:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mirllamarques)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirlla-marques)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mirlla_marques)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mirlla.alves@ccc.ufcg.edu.br)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mirllamarques&theme=dracula&show_icons=true" />
