@@ -8,7 +8,8 @@ Welcome to my study place
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-- 👩🏻‍💻 Now I'm Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project.
+- 👩🏻‍💻 Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project, see 
+<code> <a> here scr="https://github.com/pyladiespb-org/pysite/tree/master/frontend' </a> </code>
 
 - 👯 In the communities I participate they call me Mirlla News because I'm the girl behind the Instagrams of PyLadies Paraíba and Elas@Computação.
 
