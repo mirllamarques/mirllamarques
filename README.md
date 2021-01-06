@@ -10,9 +10,7 @@ Welcome to my study place
 
 - 👩🏻‍💻 Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project, see 
 
-<a href="https://github.com/pyladiespb-org/pysite/tree/master/frontend">
-  <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fpyladiespb&psig=AOvVaw26hCWAWjpBpN4uG5J8DnU-&ust=1610045615749000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiUrLr9h-4CFQAAAAAdAAAAABAD"/>
-</a>
+<a href="https://github.com/pyladiespb-org/pysite/tree/master/frontend">here</a>
 
 - 👯 In the communities I participate they call me Mirlla News because I'm the girl behind the Instagrams of PyLadies Paraíba and Elas@Computação.
 
