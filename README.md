@@ -8,7 +8,9 @@ Welcome to my study place
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-- 👩🏻‍💻 Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project, see <a href="https://github.com/pyladiespb-org/pysite/tree/master/frontend">here</a>
+- 🔭 I’m Quality Analyst Inter at Vsoft 
+
+- 👩🏻‍💻 I was Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project, see <a href="https://github.com/pyladiespb-org/pysite/tree/master/frontend">here</a>
 
 - 👯 In the communities I participate they call me Mirlla News because I'm the girl behind the Instagrams of PyLadies Paraíba and Elas@Computação.
 
