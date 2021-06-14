@@ -14,7 +14,7 @@ Welcome to my study place
 
 - ⚡ I'm midia manager of Elas@Computação.
 
-- 📫 If you want talk with me:
+- 📫 If you want to contact me:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirlla-marques)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mirlla_marques)
