@@ -22,12 +22,9 @@ Welcome to my study place
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mirlla_marques)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mirlla.alves@ccc.ufcg.edu.br)
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mirllamarques&theme=dracula&show_icons=true" />
-</a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirllamarques&layout=compact&theme=radical" />
-  
+![Mirlla's Stats](https://github-readme-stats.vercel.app/api?username=mirllamarques&show_icons=true&theme=radical)
+![Mirlla's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirllamarques&layout=compact&theme=radical)
+
 <!--
 **mirllamarques/mirllamarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
