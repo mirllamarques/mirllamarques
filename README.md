@@ -26,6 +26,8 @@ Welcome to my study place
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mirllamarques&theme=dracula&show_icons=true" />
 </a>
 
+![Mirlla's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirllamarques&layout=compact&theme=radical)
+
 <!--
 **mirllamarques/mirllamarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
