@@ -12,7 +12,7 @@ Welcome to my study place
 
 - 👩🏻‍💻 I was Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project, see <a href="https://github.com/pyladiespb-org/pysite/tree/master/frontend">here</a>
 
-- 👯 In the communities I participate they call me Mirlla News because I'm the girl behind the Instagrams of PyLadies Paraíba and Elas@Computação.
+- 👯 In the communities I participate they call me Mirlla News because I was the girl behind the Instagrams of PyLadies Paraíba and Elas@Computação.
 
 - ⚡ I'm midia manager of Elas@Computação.
 
