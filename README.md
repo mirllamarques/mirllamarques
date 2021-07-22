@@ -14,7 +14,7 @@ Welcome to my study place
 
 - 👯 In the communities I participate they call me Mirlla News because I was the girl behind the Instagrams of PyLadies Paraíba and Elas@Computação.
 
-- ⚡ I'm midia manager of Elas@Computação.
+- ⚡ I was midia manager of Elas@Computação (2020-2021).
 
 - 📫 If you want to contact me:
 
