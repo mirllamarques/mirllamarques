@@ -1,7 +1,7 @@
 
 ### Hi, I'm Mirlla!
 
-Welcome to my code place, take a look at my <a href="mirllamarques.github.io/">page</a>
+Welcome to my code place, take a look at my <a href="https://mirllamarques.github.io">page</a>
 
 - 🌱I’m currently learning 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
