@@ -13,7 +13,7 @@ Welcome to my code place, take a look at my <a href="https://mirllamarques.githu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
 
-- 🔭 I’m Quality Analyst Intern at Vsoft 
+- 🔭 I’m Quality Analyst Trainee at Vsoft and training student at Virtus
 
 - 👩🏻‍💻 I was Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project, see <a href="https://github.com/pyladiespb-org/pysite/tree/master/frontend">here</a>
 
