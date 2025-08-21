@@ -3,26 +3,43 @@
 
 Welcome to my code place, take a look at my <a href="https://mirllamarques.github.io">page</a>
 
-- 🌱I’m currently learning 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+- 🌱My currently stack
+
+Frontend
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Nextjs-logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
+Backend/Data Analisys
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+Myscelaneous
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 - 🔭 I was Quality Analyst Trainee at Vsoft
 
-- 💻 I'm PD&I Student at Virtus 
+- 💻 I'm PD&I Student at Virtus, FullStack Developer 
 
 - 👩🏻‍💻 I was Front-end mentor of PyLadies Paraíba website, an OpenDev Andromedev project, see <a href="https://github.com/pyladiespb-org/pysite/tree/master/frontend">here</a>
 
-- 👯 In the communities I participate they call me Mirlla News because I was the girl behind the Instagrams of PyLadies Paraíba and Elas@Computação.
+- 💬 Speaker at Python Brasil 2020
+
+- :newspaper: Three-time teacher of the introductory mini course on angular 
+
+- 💻 Founder member of Win Code Competitive UFCG
+
+- :1st_place_medal: First Place on Innovation Race picth powered by Virtus UFCG, my first pitch competition
+
+- :2nd_place_medal: Silver Medal in the senior women's tournament of the OPI (Olímpiada Paraibana de Informática)
+
+- :3rd_place_medal: Bronze Medal at my first code competition, II Maratona Feminina de Computação UFCG
 
 - ⚡ I was midia manager of Elas@Computação (2020-2021).
 
